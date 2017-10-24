@@ -1,0 +1,30 @@
+#footer{
+	background: #161A1A;
+	color: white;
+	font-size:0.8rem; 
+	padding:2.5rem 0;
+	
+}
+#color{
+	background:#090F0F;
+	padding:0.5rem 0;
+	color: white;
+}
+
+
+
+
+
+
+#acerca-de{
+	background:url("../img/mapa1.jpg") center center no-repeat;
+	background-size: cover;
+	padding:0;
+	
+}
+.texto-acerca-de{
+	background: rgba(0, 0, 0, .8);
+	color:white;
+	padding: 1.875rem;
+
+}
